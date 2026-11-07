@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Python 3 SDK & HMAC-SHA256 Webhook Verifier for DaVinci Deluxe B2B Cloud Tuning REST API (/api/v1/cloud/*) (v1.0.45)"
 version: "1.0.45"
-date-released: "2026-11-06"
+date-released: "2026-11-07"
 url: "https://www.davincideluxe.fr/developers"
 repository-code: "https://github.com/DavinciDeluxe/davinci-cloud-api-python-sdk"
 authors:
